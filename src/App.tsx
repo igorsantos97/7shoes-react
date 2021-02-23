@@ -1,8 +1,9 @@
 import React from 'react';
+import Home from './pages/Home';
 
 const App: React.FC = () => {
   return (
-    <div>Hello 7Shoes</div>
+    <Home />
   );
 }
 
